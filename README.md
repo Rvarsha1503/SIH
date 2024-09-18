@@ -37,8 +37,6 @@ We are **Zenith Nexus**, a group of six dedicated students from India, working t
 | ------------------------- | ------------------------------------ |
 | Rayavarapu Khyathi Pradha  | rayavarapu.khyathipradha@gmail.com   |
 | Racharla Varsha            | varsharacharla1503@gmail.com         |
-| Patla Harshitha            | harshithapatla21@gmail.com           |
-| K. Rahul Badrinath         | rahul798141@gmail.com                |
 | P. Shrenik Kumar           | 22891a1243.pshrenik@gmail.com        |
 | A. K. V. S Chakravarthy    | akvschakravarthy@gmail.com           |
 
